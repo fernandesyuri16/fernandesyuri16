@@ -1,3 +1,7 @@
+<img src="https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg" alt="Typing SVG" />
+
+<hr/>
+
 <div width=100% align=center>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3C+Welcome+to+my+developing+world!+%3E" alt="Typing SVG" />
@@ -15,7 +19,7 @@
 - 📢 I enrolled in a university in order to pursue knowledge, professional formation, qualifications, and development to pursue a career in the technology field. I am seeking knowledge through courses and certifications in order to acquire practical concepts. I am looking for experience!
 
 - 👨🏻‍💻 Back-end Developer; <br>
-- 📚 studying software engineering at Uni-FACEF; <br>
+- 📚 Studying software engineering at Uni-FACEF; <br>
 - 📧 Contact: yuricaparelliofc@gmail.com; <br>
 - 🎖️ I love challenges; <br>
 
