@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3C+Welcome+to+my+developing+world!+%3E" alt="Typing SVG" />
 </div>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=Francielefernandes06&style=flat-square&color=fc015c" alt="Visualizações neste perfil" />
+<img align="left" src="https://komarev.com/ghpvc/?username=fernandesyuri166&style=flat-square&color=fc015c" alt="Visualizações neste perfil" />
 <br>
 
 
