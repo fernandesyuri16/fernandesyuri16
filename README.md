@@ -75,7 +75,7 @@
 <br>
  
 <blockquote cite="http://developer.mozilla.org">
-  <p> Everybody should learn to program a computer, bacause it teaches you how to think <br> <p align="left"> - Steve Jobs </p>
+  <p> Everybody should learn to program a computer, <br> bacause it teaches you how to think <br> <p align="right"> - Steve Jobs </p>
 </blockquote>
  
  <br>
