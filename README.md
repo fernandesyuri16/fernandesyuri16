@@ -72,9 +72,10 @@
     <a href="https://wa.me/5516988387316?text=Ol%C3%A1%20Yuri,%20vi%20seu%20perfil%20no%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325c862?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    </div>
 </div>
+<br>
  
 <blockquote cite="http://developer.mozilla.org">
-  <p> Everybody should learn to program a computer, bacause it teaches you how to think <br> <p> - Steve Jobs> </p>
+  <p> Everybody should learn to program a computer, bacause it teaches you how to think <br> <p align="left"> - Steve Jobs </p>
 </blockquote>
  
  <br>
