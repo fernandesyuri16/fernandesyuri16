@@ -73,7 +73,6 @@
    </div>
 </div>
 
- [![Readme Quotes](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/fernandesyuri16/fernandesyuri16/blob/main/quote.json)]
- 
+
  <br>
  <img src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
