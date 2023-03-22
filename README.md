@@ -10,7 +10,7 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=fernandesyuri166&style=flat-square&color=fc015c" alt="Visualizações neste perfil" />
 <br>
 
-
+<br>
 <h2 align="center">| About me |</h2>
 <br>
 
