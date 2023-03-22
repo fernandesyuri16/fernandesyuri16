@@ -1,4 +1,4 @@
-<img src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
+<img align="center" src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
 
 <hr/>
 
@@ -78,4 +78,4 @@
   <p> Everybody should learn to program a computer, <br> bacause it teaches you how to think <br> <p align="right"> - Steve Jobs </p>
 </blockquote>
 
-<img src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
+<img align="center" src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
