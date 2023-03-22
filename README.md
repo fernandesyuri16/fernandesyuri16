@@ -73,7 +73,9 @@
    </div>
 </div>
  
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json)
-
+<blockquote cite="http://developer.mozilla.org">
+  <p> Everybody should learn to program a computer, bacause it teaches you how to think <br> <p> - Steve Jobs> </p>
+</blockquote>
+ 
  <br>
  <img src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
