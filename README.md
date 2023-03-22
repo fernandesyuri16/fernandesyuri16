@@ -10,21 +10,19 @@
 <h2 align="center">| About me |</h2>
 <br>
 
-- 📢 
+- 📢 I enrolled in a university in order to pursue knowledge, professional formation, qualifications, and development to pursue a career in the technology field. I am seeking knowledge through courses and certifications in order to acquire practical concepts. I am looking for experience!
 
 - 👨🏻‍💻 Back-end Developer;
-- 
+
 - 📚 studying software engineering at Uni-FACEF;
-- 
+
 - 📧 Contact: yuricaparelliofc@gmail.com;
-- 
+
 - 🎖️ I love challenges;
+
 <br>
 
-
 ##
-
-
 
 <h3 align="center">| 💻 Currently studying 💻 |</h3>
 
