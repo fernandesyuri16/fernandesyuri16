@@ -17,9 +17,6 @@
 - 📧 Contact: yuricaparelliofc@gmail.com; <br>
 - 🎖️ I love challenges; <br>
 
-<br>
-
-##
 <hr/>
 
 <h3 align="center">| 💻 Currently studying 💻 |</h3>
