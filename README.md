@@ -20,6 +20,7 @@
 <br>
 
 ##
+<hr/>
 
 <h3 align="center">| 💻 Currently studying 💻 |</h3>
 
