@@ -77,6 +77,5 @@
 <blockquote cite="http://developer.mozilla.org">
   <p> Everybody should learn to program a computer, <br> bacause it teaches you how to think <br> <p align="right"> - Steve Jobs </p>
 </blockquote>
- 
- <br>
- <img src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
+
+<img src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
