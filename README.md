@@ -10,9 +10,14 @@
 <h2 align="center">| About me |</h2>
 <br>
 
+- 📢 
+
 - 👨🏻‍💻 Back-end Developer;
+- 
 - 📚 studying software engineering at Uni-FACEF;
+- 
 - 📧 Contact: yuricaparelliofc@gmail.com;
+- 
 - 🎖️ I love challenges;
 <br>
 
@@ -21,19 +26,19 @@
 
 
 
-<h3 align="center">| 💻 Currently studying |</h3>
+<h3 align="center">| 💻 Currently studying 💻 |</h3>
 
 <div align="center">
-   <!--<img  align="center" alt="Fran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img  align="center" alt="Fran-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">-->
-  <img  align="center" alt="Fran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+   <!--<img  align="center" alt="Fran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> -->
+   <img  align="center" alt="Fran-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   <img  align="center" alt="Fran-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="Fran-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="Fran-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 </div>
  <br/>
 
-<h3 align="center">| ⭐ Technologies |</h3>
+<h3 align="center">| 💡 Technologies 💡 |</h3>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Fran-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -48,7 +53,7 @@
 <div/>
     <br/>
 
-<h3 align="center">| 🛠 Tools, Environments, and Development |</h3>
+<h3 align="center">| 🛠 Tools, Environments, and Development 🛠 |</h3>
 
 <div align="center">
 
@@ -59,14 +64,12 @@
  <hr/>
 
 
-<div> 
- <a href="https://www.instagram.com/yurifernandes016/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a href = "mailto:yuricaparelliofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23d3403a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/fernandesyuri16/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://wa.me/5516988387316?text=Ol%C3%A1%20Yuri,%20vi%20seu%20perfil%20no%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325c862?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+   <div> 
+    <a href="https://www.instagram.com/yurifernandes016/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:yuricaparelliofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23d3403a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/fernandesyuri16/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://wa.me/5516988387316?text=Ol%C3%A1%20Yuri,%20vi%20seu%20perfil%20no%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325c862?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
-<img src="https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg" alt="Typing SVG" />
-</div>
-<!-- ! [Animação de cobras] (https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg)-->
-
+   <img src="https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg" alt="Typing SVG" />
+   </div>
 </div>
