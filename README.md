@@ -71,7 +71,7 @@
     <a href="https://www.linkedin.com/in/fernandesyuri16/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://wa.me/5516988387316?text=Ol%C3%A1%20Yuri,%20vi%20seu%20perfil%20no%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325c862?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    
-     ![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/fernandesyuri16/fernandesyuri16/blob/main/quote.json)
+     [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote)](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/fernandesyuri16/fernandesyuri16/blob/main/quote.json)
       
    <img src=https://github.com/Francielefernandes06/Francielefernandes06/blob/output/github-contribution-grid-snake.svg />
    </div>
