@@ -19,7 +19,7 @@
 - 📢 I enrolled in a university in order to pursue knowledge, professional formation, qualifications, and development to pursue a career in the technology field. I am seeking knowledge through courses and certifications in order to acquire practical concepts. I am looking for experience!
 
 - 👨🏻‍💻 Back-end Developer; <br>
-- 📚 Studying Software Engineering at Uni-FACEF (5º Semester); <br>
+- 📚 Studying Software Engineering at Uni-FACEF (7º Semester); <br>
 - 📧 Contact: yuricaparelliofc@gmail.com; <br>
 - 🎖️ I love challenges; <br>
 
