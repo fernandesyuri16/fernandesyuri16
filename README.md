@@ -23,8 +23,6 @@
 
 <hr/>
 
- <br/>
-
 <h3 align="center">| 💡 Technologies 💡 |</h3>
 
 <div style="display: inline_block" align="center"><br>
@@ -54,7 +52,6 @@
      
  <hr/>
 
-
    <div> 
     <a href="https://www.instagram.com/yurifernandes016/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23b6008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href = "mailto:yuricaparelliofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23d3403a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -67,3 +64,6 @@
 <blockquote cite="http://developer.mozilla.org">
   <p> Everybody should learn to program a computer, <br> bacause it teaches you how to think <br> <p align="right"> - Steve Jobs </p>
 </blockquote>
+
+ <hr/>
+
